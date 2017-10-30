@@ -1,3 +1,3 @@
-# DS-Java-
+# Data-Structures
 
-Data structures using Java
+Implementation of basic data structures
